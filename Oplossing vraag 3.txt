@@ -1,0 +1,12 @@
+Oplossingen theorievragen webtech 3. 
+
+1. Wat is een web service (in eigen woorden)
+
+een web service is eens stukje functionaliteit dat beschikbaar wordt gemaakt op het web. 
+Alle gebruikers met toegang tot het web hebben bijgevolg toegang tot deze functionaliteit,
+ongeacht het besturingssyteem dat die persoon / systeem gebruikt.
+
+2. verband met service oriented architecture:
+
+Een service oriented architecture is een architectuur dat probeert om simpele en losgekoppelde systemen te ontwikkelen door het combineren van verschillende services. 
+
